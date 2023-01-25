@@ -11,7 +11,6 @@ Installing
 
 Clone the repository to your local machine
 Copy code
-git clone https://github.com/your-username/rock-paper-scissors.git
 Navigate to the project directory
 Copy code
 cd rock-paper-scissors
@@ -28,6 +27,6 @@ Built With
 Python
 Authors
 
-[Your name]
+[Ephrim Bazile]
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is for educational purpose 
